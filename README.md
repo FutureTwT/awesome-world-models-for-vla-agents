@@ -9,13 +9,13 @@
 
 ## 🚩 News & Updates
 
-*Major updates and announcements are shown below. Scroll for full timeline.*
+*Major updates and announcements are shown below. Scroll for full timeline.* 
 
 🎉 **[2026-02] Repository Initialization** — Awesome World Models for VLA Agents repository is now live! This repository systematically organizes and tracks the latest resources in world models for VLA agents.
 
 ## 📝 Citation
 
-If you find our survey or this repository helpful for your research, please consider citing our paper:
+If you find our survey or this repository helpful for your research, please consider citing our paper and giving it a star! ⭐:
 
 ~~~bibtex
 @article{WM_for_VLA_Survey,
